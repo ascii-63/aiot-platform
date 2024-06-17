@@ -5,7 +5,8 @@ AIoT Platform
 ## Features
 
 ## Architecture
-
+### Software Architecture:
+![Software Architecture of AIoT Platform](./docs/images/SWArch.jpg)
 ## Installation
 
 ### Hardware
